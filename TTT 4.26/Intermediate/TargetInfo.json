@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TTT",
+			"Path": "D:\\School\\AI\\Week10AI-TTT\\TicTacToe\\TTT 4.26\\Source\\TTT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TTTEditor",
+			"Path": "D:\\School\\AI\\Week10AI-TTT\\TicTacToe\\TTT 4.26\\Source\\TTTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
