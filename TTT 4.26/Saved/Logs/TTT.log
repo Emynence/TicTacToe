@@ -880,3 +880,1014 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.03-04.23.13:948][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.12.03-04.23.13:949][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2021.12.03-04.23.13:988][864]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.12.03-04.31.07:370][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bpAI.bpAI
+[2021.12.03-04.31.07:597][285]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.12.03-04.31.08:556][285]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.03-04.31.52:493][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewPawn.NewPawn
+[2021.12.03-04.31.53:004][494]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.03-04.55.22:993][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.12.03-04.55.22:994][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/game' took 0.024
+[2021.12.03-04.55.23:272][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpAI] ([1] browsable assets)...
+[2021.12.03-04.55.23:273][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpAI]
+[2021.12.03-04.55.23:273][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/Autosaves/Game/bpAI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.12.03-04.55.23:338][768]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/bpAI_Auto1C1DD830744633462F3E1A8B0853DA200.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/Autosaves/Game/bpAI_Auto1.uasset'
+[2021.12.03-04.55.23:339][768]LogFileHelpers: Auto-saving content packages took 0.346
+[2021.12.03-04.58.14:435][765]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameManager.GameManager
+[2021.12.03-05.04.25:814][588]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.04.25:863][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.12.03-05.04.26:510][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset" SILENT=true
+[2021.12.03-05.04.26:532][624]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/bpAI0CF4F28D47A81654C37AC6A66C350D32.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset'
+[2021.12.03-05.04.26:554][624]AssetCheck: New page: Asset Save: bpAI
+[2021.12.03-05.04.26:554][624]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2021.12.03-05.11.37:307][324]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.11.37:354][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.12.03-05.11.38:025][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset" SILENT=true
+[2021.12.03-05.11.38:046][361]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/bpAIB4D5C54F4A770D9A30687CA61A648484.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset'
+[2021.12.03-05.11.38:069][361]AssetCheck: New page: Asset Save: bpAI
+[2021.12.03-05.11.38:070][361]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2021.12.03-05.11.42:651][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.12.03-05.11.42:652][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/Autosaves/Game/game_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.03-05.11.42:676][633]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/game_Auto24E4D8B5645E604A7F1C211A52CD9D2CD.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/Autosaves/Game/game_Auto2.umap'
+[2021.12.03-05.11.42:678][633]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/game' took 0.049
+[2021.12.03-05.11.42:678][633]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2021.12.03-05.13.23:095][115]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.13.23:132][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.12.03-05.13.23:820][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset" SILENT=true
+[2021.12.03-05.13.23:902][153]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/bpAIFE02861A4E9F90B37E46BAB1765D59A2.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset'
+[2021.12.03-05.13.23:923][153]AssetCheck: New page: Asset Save: bpAI
+[2021.12.03-05.13.23:923][153]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2021.12.03-05.17.30:593][884]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.17.30:596][884]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Is Space Empty  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.17.30:596][884]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Check for Possible Victory  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.17.30:633][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.12.03-05.17.31:139][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset" SILENT=true
+[2021.12.03-05.17.31:163][911]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/bpAID69F4C1B4352C0D3BC0DA4A4A25CA817.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset'
+[2021.12.03-05.17.31:185][911]AssetCheck: New page: Asset Save: bpAI
+[2021.12.03-05.17.31:185][911]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2021.12.03-05.24.27:381][616]LogEditorTransaction: Undo Resize Node
+[2021.12.03-05.24.53:333][150]LogEditorTransaction: Undo Create Pin Link
+[2021.12.03-05.24.54:028][179]LogEditorTransaction: Undo Move Node
+[2021.12.03-05.24.54:500][206]LogEditorTransaction: Undo Add Node
+[2021.12.03-05.24.54:925][230]LogEditorTransaction: Undo Move Node
+[2021.12.03-05.24.55:549][266]LogEditorTransaction: Undo Delete current selection
+[2021.12.03-05.24.56:188][302]LogEditorTransaction: Undo Create Pin Link
+[2021.12.03-05.24.56:666][329]LogEditorTransaction: Undo Create Pin Link
+[2021.12.03-05.24.57:036][350]LogEditorTransaction: Undo Create Pin Link
+[2021.12.03-05.24.57:489][376]LogEditorTransaction: Undo Create Pin Link
+[2021.12.03-05.24.57:923][401]LogEditorTransaction: Undo Add Node
+[2021.12.03-05.26.55:579][380]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.26.55:591][380]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Is Space Empty  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.26.55:591][380]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Check for Possible Victory  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.26.55:591][380]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Is Space Empty  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.26.55:632][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.12.03-05.26.56:168][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset" SILENT=true
+[2021.12.03-05.26.56:194][408]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/bpAI8B4E3EBA4EC39BD86463E287403C708F.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset'
+[2021.12.03-05.26.56:217][408]AssetCheck: New page: Asset Save: bpAI
+[2021.12.03-05.26.56:217][408]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2021.12.03-05.27.01:566][729]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.27.01:569][729]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Is Space Empty  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.27.01:569][729]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Check for Possible Victory  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.27.01:569][729]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Is Space Empty  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.27.01:605][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.12.03-05.27.48:330][511]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.27.48:334][511]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Is Space Empty  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.27.48:334][511]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Is Space Empty  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.27.48:372][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.12.03-05.28.10:676][838]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.28.10:680][838]LogBlueprint: Warning: [AssetLog] D:\School\AI\Week10AI-TTT\TicTacToe\TTT 4.26\Content\bpAI.uasset: [Compiler] Is Space Empty  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.03-05.28.10:718][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.12.03-05.28.24:466][653]BlueprintLog: New page: Compile bpAI
+[2021.12.03-05.28.24:506][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.12.03-05.28.25:407][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpAI" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset" SILENT=true
+[2021.12.03-05.28.25:438][702]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/bpAIC36F7262447CB0FE10DA39AC7E33A8D7.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/bpAI.uasset'
+[2021.12.03-05.28.25:460][702]AssetCheck: New page: Asset Save: bpAI
+[2021.12.03-05.28.25:460][702]LogContentValidation: Display: Validating Blueprint /Game/bpAI.bpAI
+[2021.12.03-05.28.28:933][908]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.03-05.28.28:948][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-05.28.28:948][908]PIE: New page: PIE session: game (Dec 2, 2021, 5:28:28 PM)
+[2021.12.03-05.28.28:988][908]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_game
+[2021.12.03-05.28.28:991][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003122s)
+[2021.12.03-05.28.28:992][908]LogAIModule: Creating AISystem for world game
+[2021.12.03-05.28.28:993][908]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2021.12.03-05.28.28:993][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game.game to /Game/UEDPIE_0_game.game (0.004594s)
+[2021.12.03-05.28.29:015][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.12.03-05.28.29:017][908]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.03-05.28.29:017][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-05.28.29:017][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-05.28.29:017][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-05.28.29:017][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-05.28.29:017][908]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-05.28.29:017][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-05.28.29:017][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-05.28.29:017][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-05.28.29:017][908]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-05.28.29:017][908]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-05.28.29:024][908]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-05.28.29:024][908]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-05.28.29:043][908]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.12.03-05.28.29:043][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-05.28.29:043][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-05.28.29:043][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-05.28.29:044][908]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.03-05.28.29:044][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-05.28.29:044][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-05.28.29:062][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-05.28.29:062][908]LogInit: FAudioDevice initialized.
+[2021.12.03-05.28.29:062][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-05.28.29:062][908]LogAudio: Display: Audio Device (ID: 3) registered with world 'game'.
+[2021.12.03-05.28.29:077][908]LogLoad: Game class is 'MyGameMode_C'
+[2021.12.03-05.28.29:079][908]LogWorld: Bringing World /Game/UEDPIE_0_game.game up for play (max tick rate 60) at 2021.12.02-23.28.29
+[2021.12.03-05.28.29:079][908]LogWorld: Bringing up level for play took: 0.001157
+[2021.12.03-05.28.29:079][908]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.12.03-05.28.29:082][908]PIE: Server logged in
+[2021.12.03-05.28.29:083][908]PIE: Play in editor total start time 0.143 seconds.
+[2021.12.03-05.28.30:354][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:354][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:354][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:354][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:354][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:354][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:354][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.30:355][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:359][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 9
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 12
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 15
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 18
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 21
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 24
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:360][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.30:361][984]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 9
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.35:719][306]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.35:720][306]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.37:201][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:201][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:201][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:201][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:201][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:201][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:201][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:201][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.37:202][395]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.38:635][481]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.38:636][481]LogBlueprintUserMessages: [GameManager_2] We have a winner
+[2021.12.03-05.28.46:075][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-05.28.46:075][925]LogWorld: BeginTearingDown for /Game/UEDPIE_0_game
+[2021.12.03-05.28.46:075][925]LogWorld: UWorld::CleanupWorld for game, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-05.28.46:076][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-05.28.46:086][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-05.28.46:089][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-05.28.46:113][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.03-05.28.46:113][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-05.28.46:115][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-05.28.46:132][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-05.28.46:135][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.12.03-05.28.46:156][926]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.12.03-05.28.47:640][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.03-05.28.47:653][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-05.28.47:654][ 13]PIE: New page: PIE session: game (Dec 2, 2021, 5:28:47 PM)
+[2021.12.03-05.28.47:697][ 13]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_game
+[2021.12.03-05.28.47:700][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002888s)
+[2021.12.03-05.28.47:701][ 13]LogAIModule: Creating AISystem for world game
+[2021.12.03-05.28.47:701][ 13]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2021.12.03-05.28.47:701][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game.game to /Game/UEDPIE_0_game.game (0.003894s)
+[2021.12.03-05.28.47:722][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.12.03-05.28.47:723][ 13]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.03-05.28.47:723][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-05.28.47:723][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-05.28.47:723][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-05.28.47:723][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-05.28.47:723][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-05.28.47:723][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-05.28.47:723][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-05.28.47:723][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-05.28.47:724][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-05.28.47:724][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-05.28.47:727][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-05.28.47:727][ 13]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-05.28.47:745][ 13]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.12.03-05.28.47:745][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-05.28.47:745][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-05.28.47:745][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-05.28.47:745][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.03-05.28.47:746][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-05.28.47:746][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-05.28.47:760][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-05.28.47:760][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-05.28.47:760][ 13]LogInit: FAudioDevice initialized.
+[2021.12.03-05.28.47:760][ 13]LogAudio: Display: Audio Device (ID: 4) registered with world 'game'.
+[2021.12.03-05.28.47:771][ 13]LogLoad: Game class is 'MyGameMode_C'
+[2021.12.03-05.28.47:772][ 13]LogWorld: Bringing World /Game/UEDPIE_0_game.game up for play (max tick rate 60) at 2021.12.02-23.28.47
+[2021.12.03-05.28.47:772][ 13]LogWorld: Bringing up level for play took: 0.000761
+[2021.12.03-05.28.47:772][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.03-05.28.47:774][ 13]PIE: Server logged in
+[2021.12.03-05.28.47:775][ 13]PIE: Play in editor total start time 0.128 seconds.
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.48:578][ 61]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 9
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 12
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 15
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 18
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 21
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 24
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.48:579][ 61]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.48:580][ 61]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:037][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 9
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 12
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 15
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 18
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 21
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 24
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:038][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.52:039][269]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.28.54:571][421]LogBlueprintUserMessages: [GameManager_2] We have a winner
+[2021.12.03-05.29.00:445][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-05.29.00:445][771]LogWorld: BeginTearingDown for /Game/UEDPIE_0_game
+[2021.12.03-05.29.00:445][771]LogWorld: UWorld::CleanupWorld for game, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-05.29.00:445][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-05.29.00:457][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-05.29.00:460][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-05.29.00:479][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-05.29.00:480][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-05.29.00:481][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-05.29.00:500][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.12.03-05.29.00:519][772]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.12.03-05.29.02:018][861]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.03-05.29.02:031][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.03-05.29.02:031][861]PIE: New page: PIE session: game (Dec 2, 2021, 5:29:02 PM)
+[2021.12.03-05.29.02:031][861]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_game
+[2021.12.03-05.29.02:034][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002714s)
+[2021.12.03-05.29.02:034][861]LogAIModule: Creating AISystem for world game
+[2021.12.03-05.29.02:034][861]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2021.12.03-05.29.02:035][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game.game to /Game/UEDPIE_0_game.game (0.003635s)
+[2021.12.03-05.29.02:055][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.12.03-05.29.02:056][861]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.03-05.29.02:056][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.03-05.29.02:056][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.03-05.29.02:056][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.03-05.29.02:056][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.03-05.29.02:056][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.03-05.29.02:056][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.03-05.29.02:056][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.03-05.29.02:056][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.03-05.29.02:056][861]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.03-05.29.02:056][861]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.03-05.29.02:060][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.03-05.29.02:060][861]LogAudioMixer: Display: 1: FrontRight
+[2021.12.03-05.29.02:077][861]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.12.03-05.29.02:078][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.03-05.29.02:078][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.03-05.29.02:078][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.03-05.29.02:078][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.03-05.29.02:078][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.03-05.29.02:078][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.03-05.29.02:079][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.03-05.29.02:079][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.03-05.29.02:079][861]LogInit: FAudioDevice initialized.
+[2021.12.03-05.29.02:079][861]LogAudio: Display: Audio Device (ID: 5) registered with world 'game'.
+[2021.12.03-05.29.02:096][861]LogLoad: Game class is 'MyGameMode_C'
+[2021.12.03-05.29.02:097][861]LogWorld: Bringing World /Game/UEDPIE_0_game.game up for play (max tick rate 60) at 2021.12.02-23.29.02
+[2021.12.03-05.29.02:099][861]LogWorld: Bringing up level for play took: 0.000773
+[2021.12.03-05.29.02:099][861]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.12.03-05.29.02:101][861]PIE: Server logged in
+[2021.12.03-05.29.02:101][861]PIE: Play in editor total start time 0.077 seconds.
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:439][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 9
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 12
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 15
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 18
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 21
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 24
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:440][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.03:441][941]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.29.11:099][401]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 9
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 12
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 15
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 18
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 21
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 24
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 0
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 1
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 2
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 3
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 4
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 5
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking for potential victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 6
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 7
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] 8
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:100][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.11:101][401]LogBlueprintUserMessages: [GameManager_2] No winner, keep playing
+[2021.12.03-05.29.13:559][548]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.13:559][548]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.13:559][548]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.13:559][548]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.13:559][548]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.13:559][548]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.13:559][548]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.13:559][548]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] no winner yet
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Looking for the next set
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] Checking For Victory
+[2021.12.03-05.29.13:560][548]LogBlueprintUserMessages: [GameManager_2] We have a winner
+[2021.12.03-05.29.15:524][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-05.29.15:524][664]LogWorld: BeginTearingDown for /Game/UEDPIE_0_game
+[2021.12.03-05.29.15:524][664]LogWorld: UWorld::CleanupWorld for game, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-05.29.15:524][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-05.29.15:532][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.03-05.29.15:535][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-05.29.15:555][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.03-05.29.15:555][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-05.29.15:556][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.03-05.29.15:574][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.12.03-05.29.15:594][665]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.12.03-05.29.20:404][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/game" FILE="D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.03-05.29.20:426][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.12.03-05.29.20:449][950]LogSavePackage: Moving 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Saved/gameCA7C26B04311226BCDCE4E9B98ACE91F.tmp' to 'D:/School/AI/Week10AI-TTT/TicTacToe/TTT 4.26/Content/game.umap'
+[2021.12.03-05.29.20:473][950]AssetCheck: New page: Asset Save: game
+[2021.12.03-05.29.20:473][950]LogContentValidation: Display: Validating World /Game/game.game
